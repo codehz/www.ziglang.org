@@ -75,7 +75,7 @@ Zig 没有宏也没有元编程，但仍然足够强大，可以清晰、不重�
 
 ## 工具性
 
-可以从[下载页面](../../downloads/)下载 Zig。Zig 提供了 linux、windows、macos 和 freebsd 的二进制存档。你将得到：
+可以从[下载页面](/zh/downloads/)下载 Zig。Zig 提供了 linux、windows、macos 和 freebsd 的二进制存档。你将得到：
 
 * 通过下载并解压单个压缩包进行安装，无需配置系统。
 * 静态编译，没有运行时依赖
